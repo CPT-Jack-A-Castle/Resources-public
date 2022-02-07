@@ -14,3 +14,4 @@ Threat Group Cards A Threat Actor Encyclopedia - TLP:WHITE Version 1.01 (19 June
 
 Threat Group Cards A Threat Actor Encyclopedia - TLP:WHITE Version 2.0 (8 July 2020), Compiled by ThaiCERT a member of the Electronic Transactions Development Agency.
 
+DarkNet Master and Deep Web Secrets - Author : Procolo Scotto
