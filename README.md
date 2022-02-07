@@ -9,3 +9,8 @@ Malware Analysis Series (MAS): Article 1 by Alexandre Borges date: DEC/03/2021 -
 Malware Analysis Series (MAS): Article 2 by Alexandre Borges release date: FEB/03/2022 - revision: A
 
 21 OSINT Research Tools for Threat Intelligence - Silo by Authentic8
+
+Threat Group Cards A Threat Actor Encyclopedia - TLP:WHITE Version 1.01 (19 June 2019), Compiled by ThaiCERT a member of the Electronic Transactions Development Agency.
+
+Threat Group Cards A Threat Actor Encyclopedia - TLP:WHITE Version 2.0 (8 July 2020), Compiled by ThaiCERT a member of the Electronic Transactions Development Agency.
+
