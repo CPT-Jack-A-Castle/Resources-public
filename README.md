@@ -3,6 +3,9 @@ This repository contains Links, Pdfs, files or other useful information for the 
 Thankss
 
 Resources List:
+
 Malware Analysis Series (MAS): Article 1 by Alexandre Borges date: DEC/03/2021 - revision: A.1
+
 Malware Analysis Series (MAS): Article 2 by Alexandre Borges release date: FEB/03/2022 - revision: A
+
 21 OSINT Research Tools for Threat Intelligence - Silo by Authentic8
