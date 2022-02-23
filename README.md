@@ -22,3 +22,5 @@ PE File Format - Source Wiki
 
 rpt DLL Side Loading Pdf: This paper describes the history of DLL Sideloading and its role in the malware and software engineering arenas. It also examines evolving
 trends along with similarities and differences between DLL Search-Order Hijacking, DLLHijacking, DLL pre-loading, and DLL side-loading. Author: Amanda Stewart/FireEye.
+
+Springer Book - Dark Web Investigation, Author: Babak Akhgar, Marco Gercke, Stefanos Vrochidis, Helen Gibson
