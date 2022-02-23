@@ -24,3 +24,5 @@ rpt DLL Side Loading Pdf: This paper describes the history of DLL Sideloading an
 trends along with similarities and differences between DLL Search-Order Hijacking, DLLHijacking, DLL pre-loading, and DLL side-loading. Author: Amanda Stewart/FireEye.
 
 Springer Book - Dark Web Investigation, Author: Babak Akhgar, Marco Gercke, Stefanos Vrochidis, Helen Gibson
+
+Process Hollowing Explanation: What Malware Authors Don't Want You to Know - Evasive Hollow Process Injection, Author: Monnappa K A
